@@ -19,7 +19,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Postly",
+  title: "Postly - More than tweets, it’s Postly",
   description: "A modern social media application powered by Next.js",
 };
 
